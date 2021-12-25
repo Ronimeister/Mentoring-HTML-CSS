@@ -19,22 +19,3 @@ function NamedOne(firstName, lastName) {
 }
 
 export default NamedOne;
-//     const incorrectFullName1 = "Tom";
-
-//     namedOne.fullName = incorrectFullName1;
-
-//     console.log(
-//       `Is full name equals to ${incorrectFullName1} - ${
-//         namedOne.fullName === incorrectFullName1
-//       }`
-//     );
-
-//     const incorrectFullName2 = "TomDonnovan";
-
-//     namedOne.fullName = incorrectFullName2;
-
-//     console.log(
-//       `Is full name equals to ${incorrectFullName2} - ${
-//         namedOne.fullName === incorrectFullName2
-//       }`
-//     );
