@@ -25,6 +25,8 @@
     "@babel/preset-env": "^7.16.5"
   },
   "devDependencies": {
-    "jest": "^27.4.5"
+    "jest": "^27.4.5",
+    "jest-runner-prettier": "^0.3.7",
+    "prettier": "^2.5.1"
   }
 }
