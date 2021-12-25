@@ -1,4 +1,2 @@
-import runScopeHoistingClosuresTasks from "./scope_hoisting_closures/Homework.js";
-
-// Homework 1
-//runScopeHoistingClosuresTasks();
+// This file is for local development and debugging.
+// If you want to test the results of homeworks - please, run 'npm test' command in console
